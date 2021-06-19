@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repository: git@github.com:alphonse-Kino/alphonse-Kino.github.io.git
-  branch: main
+  branch: master
