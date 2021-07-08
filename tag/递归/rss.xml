@@ -40,6 +40,23 @@
         <category>赫夫曼编码</category>
         <category>二叉排序树</category>
         <category>平衡二叉树</category>
+        <category>多叉树</category>
+        <category>B树</category>
+        <category>B+树</category>
+        <category>B×树</category>
+        <category>图</category>
+        <category>深度优先算法</category>
+        <category>广度优先算法</category>
+        <category>二分查找算法</category>
+        <category>分治算法</category>
+        <category>动态规划算法</category>
+        <category>KMP算法</category>
+        <category>贪心算法</category>
+        <category>普利姆算法</category>
+        <category>克鲁斯卡尔算法</category>
+        <category>迪杰斯特拉算法</category>
+        <category>弗洛伊德算法</category>
+        <category>马踏棋盘算法</category>
         <item>
             <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/07/06.%E9%80%92%E5%BD%92/</guid>
             <title>递归</title>

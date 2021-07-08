@@ -37,6 +37,23 @@
     <category term="赫夫曼编码" />
     <category term="二叉排序树" />
     <category term="平衡二叉树" />
+    <category term="多叉树" />
+    <category term="B树" />
+    <category term="B+树" />
+    <category term="B×树" />
+    <category term="图" />
+    <category term="深度优先算法" />
+    <category term="广度优先算法" />
+    <category term="二分查找算法" />
+    <category term="分治算法" />
+    <category term="动态规划算法" />
+    <category term="KMP算法" />
+    <category term="贪心算法" />
+    <category term="普利姆算法" />
+    <category term="克鲁斯卡尔算法" />
+    <category term="迪杰斯特拉算法" />
+    <category term="弗洛伊德算法" />
+    <category term="马踏棋盘算法" />
     <entry>
         <id>https://alphonse-kino.github.io/2021/07/07/07.%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</id>
         <title>排序算法</title>

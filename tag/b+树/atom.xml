@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alphonse-Kino.github.io</id>
+    <title>Alphonse-Kino • Posts by &#34;b+树&#34; tag</title>
+    <link href="https://alphonse-Kino.github.io" />
+    <updated>2021-07-08T14:03:46.220Z</updated>
+    <category term="算法与数据结构" />
+    <category term="线性结构与非线性结构" />
+    <category term="稀疏数组" />
+    <category term="队列" />
+    <category term="递归" />
+    <category term="线性查找" />
+    <category term="二分/折半查找" />
+    <category term="插值查找" />
+    <category term="斐波那契查找" />
+    <category term="哈希表" />
+    <category term="路线图" />
+    <category term="随手记" />
+    <category term="单链表" />
+    <category term="双链表" />
+    <category term="栈" />
+    <category term="(后缀表达式)逆波兰表达式" />
+    <category term="排序算法" />
+    <category term="冒泡排序" />
+    <category term="时间复杂度" />
+    <category term="选择排序" />
+    <category term="插入排序" />
+    <category term="希尔排序" />
+    <category term="快速排序" />
+    <category term="归并排序" />
+    <category term="基数排序" />
+    <category term="堆排序" />
+    <category term="二叉树" />
+    <category term="顺序存储二叉树" />
+    <category term="线索化二叉树" />
+    <category term="赫夫曼树" />
+    <category term="赫夫曼编码" />
+    <category term="二叉排序树" />
+    <category term="平衡二叉树" />
+    <category term="多叉树" />
+    <category term="B树" />
+    <category term="B+树" />
+    <category term="B×树" />
+    <category term="图" />
+    <category term="深度优先算法" />
+    <category term="广度优先算法" />
+    <category term="二分查找算法" />
+    <category term="分治算法" />
+    <category term="动态规划算法" />
+    <category term="KMP算法" />
+    <category term="贪心算法" />
+    <category term="普利姆算法" />
+    <category term="克鲁斯卡尔算法" />
+    <category term="迪杰斯特拉算法" />
+    <category term="弗洛伊德算法" />
+    <category term="马踏棋盘算法" />
+    <entry>
+        <id>https://alphonse-kino.github.io/2021/07/08/12.%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/</id>
+        <title>多路查找树</title>
+        <link rel="alternate" href="https://alphonse-kino.github.io/2021/07/08/12.%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/"/>
+        <content type="html">&lt;h2 id=&#34;二叉树存在的问题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二叉树存在的问题&#34;&gt;#&lt;/a&gt; 二叉树存在的问题&lt;/h2&gt;
+&lt;p&gt;二叉树的操作效率较高，但是也存在问题，请看下面的二叉树&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/R7fPMj&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/07/07/R7fPMj.png&#34; alt=&#34;R7fPMj.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1)&lt;strong&gt; 二叉树需要加载到内存的，如果二叉树的节点少，没有什么问题，但是如果二叉树的节点很多 (比如 1 亿)， 就存在如下问题:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2)&lt;strong&gt; 问题 1：在构建二叉树时，需要多次进行 i/o 操作 (海量数据存在数据库或文件中)，节点海量，构建二叉树时，速度有影响&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3)&lt;strong&gt; 问题 2：节点海量，也会造成二叉树的高度很大，会降低操作速度.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;多叉树&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#多叉树&#34;&gt;#&lt;/a&gt; 多叉树&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在二叉树中，每个节点有数据项，最多有两个子节点。1) 如果&lt;strong&gt;允许每个节点可以有更多的数据项和更多的子节点&lt;/strong&gt;，就是&lt;strong&gt;多叉树（multiway tree）&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;后面我们讲解的 2-3 树，2-3-4 树就是多叉树，多叉树通过重新组织节点，减少树的高度，能对二叉树进行优化。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;下面 2-3 树就是一颗多叉树&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/R7fAZq&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/07/07/R7fAZq.png&#34; alt=&#34;R7fAZq.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;b树&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#b树&#34;&gt;#&lt;/a&gt; B 树&lt;/h2&gt;
+&lt;p&gt;B 树通过重新组织节点，降低树的高度，并且减少 i/o 读写次数来提升效率。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/R7fnWF&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/07/07/R7fnWF.png&#34; alt=&#34;R7fnWF.png&#34;&gt;&lt;/a&gt;1)&lt;strong&gt; 如图 B 树通过重新组织节点， 降低了树的高度.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2)&lt;strong&gt; 文件系统及数据库系统的设计者利用了磁盘预读原理，将一个节点的大小设为等于一个页 (页得大小通常为 4k)，这样每个节点只需要一次 I/O 就可以完全载入&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3) 将树的度 M 设置为 1024，在 600 亿个元素中最多只需要 4 次 I/O 操作就可以读取到想要的元素，B 树 (B+) 广泛应用于文件存储系统以及数据库系统中&lt;/p&gt;
+&lt;p&gt;​		结点的度：就是一个结点下面的子树个数有几个&lt;/p&gt;
+&lt;p&gt;​		树的度：指定所有的结点里面度的最大值，就是树的度&lt;/p&gt;
+&lt;h2 id=&#34;2-3树&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-3树&#34;&gt;#&lt;/a&gt; 2-3 树&lt;/h2&gt;
+&lt;p&gt;2-3 树是最简单的 B 树结构，有以下特点&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;2-3 树的所有叶子节点都在同一层（只要是 B 树都满足这个条件）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;有两个子节点的节点叫做二节点，二节点要么没有子节点，要么有两个子节点&lt;/li&gt;
+&lt;li&gt;有三个子节点的节点叫做三节点，三节点要么没有子节点，要么有三个子节点&lt;/li&gt;
+&lt;li&gt;2-3 树是由二节点和三节点构成的数&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;实例&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#实例&#34;&gt;#&lt;/a&gt; 实例&lt;/h3&gt;
+&lt;p&gt;问题：将数列 {16, 24, 12, 32, 14, 26, 34, 10, 8, 28, 38, 20} 构建成 2-3 树，并保证数据插入的&lt;br&gt;
+大小顺序。(演示一下构建 2-3 树的过程.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;插入规则:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;2-3 树的所有叶子节点都在同一层.(只要是 B 树都满足这个条件)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有两个子节点的节点叫二节点，二节点要么没有子节点，要么有两个子节点.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有三个子节点的节点叫三节点，三节点要么没有子节点，要么有三个子节点&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;当按照规则插入一个数到某个节点时，不能满足上面三个要求，就需要拆，先向上拆，如果上层满，则拆本层，后仍然需要满足上面 3 个条件。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对于三节点的子树的值大小仍然遵守 (BST 二叉排序树) 的规则&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/R7fQy9&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/07/07/R7fQy9.png&#34; alt=&#34;R7fQy9.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/R7f8dx&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/07/07/R7f8dx.png&#34; alt=&#34;R7f8dx.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;b树-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#b树-2&#34;&gt;#&lt;/a&gt; B 树&lt;/h2&gt;
+&lt;p&gt;**&lt;a href=&#34;&#34;&gt;B-tree&lt;/a&gt;&lt;strong&gt; 树即&lt;a href=&#34;&#34;&gt; B 树&lt;/a&gt;&lt;/strong&gt;，B 即 Balanced，平衡的意思。有人把 B-tree 翻译成 B - 树，容易让人产生误解。会以为 B - 树是一种树，而 B 树又是另一种树。** 实际上，&lt;strong&gt;B-tree 就是指的 B 树。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;前面已经介绍了 2-3 树和 2-3-4 树，他们就是 B 树 (英语：B-tree 也写成 B - 树)，这里我们再做一个说明，我们在学习 Mysql 时，经常听到说某种类型的索引是基于 B 树或者 B + 树的，如图:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/R7fYFK&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/07/07/R7fYFK.png&#34; alt=&#34;R7fYFK.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;B 树的说明：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;B 树的阶：节点的最多子节点个数。比如 2-3 树的阶是 3，2-3-4 树的阶是 4&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;B - 树的搜索，从根结点开始，对结点内的关键字（有序）序列进行二分查找，如果命中则结束，否则进入查询关键字所属范围的儿子结点；重复，直到所对应的儿子指针为空，或已经是叶子结点&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;关键字集合分布在整颗树中，即叶子节点和非叶子节点都存放数据.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;搜索有可能在非叶子结点结束&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其搜索性能等价于在关键字全集内做一次二分查找&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;b树-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#b树-3&#34;&gt;#&lt;/a&gt; B + 树&lt;/h2&gt;
+&lt;p&gt;B + 树是 B 树的变体，也是一种多路搜索树。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/R7fwyd&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/07/07/R7fwyd.png&#34; alt=&#34;R7fwyd.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;B + 树的说明:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;B + 树的搜索与 B 树也基本相同，区别是 B + 树只有达到叶子结点才命中（B 树可以在非叶子结点命中），其性能也等价于在关键字全集做一次二分查找&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;所有&lt;strong&gt;关键字都出现在叶子结点的链表中&lt;/strong&gt;（即数据只能在叶子节点【也叫稠密索引】），且链表中的关键字 (数据) 恰好是有序的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不可能在非叶子结点命中&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;非叶子结点相当于是叶子结点的索引（稀疏索引），叶子结点相当于是存储（关键字）数据的数据层&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;更适合文件索引系统&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;B 树和 B + 树各有自己的应用场景，不能说 B + 树&lt;strong&gt;完全比&lt;/strong&gt; B 树好，反之亦然.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;b树-4&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#b树-4&#34;&gt;#&lt;/a&gt; B * 树&lt;/h2&gt;
+&lt;p&gt;B * 树是 B + 树的变体，在 B + 树的非根和非叶子结点再增加指向兄弟的指针。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/R7fgfS&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/07/07/R7fgfS.png&#34; alt=&#34;R7fgfS.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;B * 树的说明:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;B* 树定义了非叶子结点关键字个数至少为 (2/3) * M，即&lt;strong&gt;块的最低使用率为 2/3&lt;/strong&gt;，而&lt;strong&gt; B + 树的块的最低使用率为 1/2&lt;/strong&gt;。   M: 树的度&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;从第 1 个特点我们可以看出，B * 树分配新结点的概率比 B + 树要低，空间使用率更高&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="算法与数据结构" />
+        <category term="多叉树" />
+        <category term="B树" />
+        <category term="B+树" />
+        <category term="B×树" />
+        <updated>2021-07-08T14:03:46.220Z</updated>
+    </entry>
+</feed>

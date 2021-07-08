@@ -37,6 +37,23 @@
     <category term="赫夫曼编码" />
     <category term="二叉排序树" />
     <category term="平衡二叉树" />
+    <category term="多叉树" />
+    <category term="B树" />
+    <category term="B+树" />
+    <category term="B×树" />
+    <category term="图" />
+    <category term="深度优先算法" />
+    <category term="广度优先算法" />
+    <category term="二分查找算法" />
+    <category term="分治算法" />
+    <category term="动态规划算法" />
+    <category term="KMP算法" />
+    <category term="贪心算法" />
+    <category term="普利姆算法" />
+    <category term="克鲁斯卡尔算法" />
+    <category term="迪杰斯特拉算法" />
+    <category term="弗洛伊德算法" />
+    <category term="马踏棋盘算法" />
     <entry>
         <id>https://alphonse-kino.github.io/2021/07/08/10.%E6%A0%91%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/</id>
         <title>树结构基础部分</title>
