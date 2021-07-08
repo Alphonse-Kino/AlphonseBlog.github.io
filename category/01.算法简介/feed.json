@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Alphonse-Kino • All posts by \"01.算法简介\" category",
+    "description": "",
+    "home_page_url": "https://alphonse-Kino.github.io",
+    "items": [
+        {
+            "id": "https://alphonse-kino.github.io/2021/06/30/01.%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/",
+            "url": "https://alphonse-kino.github.io/2021/06/30/01.%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/",
+            "title": "算法简介",
+            "date_published": "2021-06-30T03:56:20.046Z",
+            "content_html": "<p><a href=\"https://imgtu.com/i/RUGLZ9\"><img src=\"https://z3.ax1x.com/2021/06/28/RUGLZ9.png\" alt=\"RUGLZ9.png\"></a></p>\n<p><a href=\"https://imgtu.com/i/RUGOaR\"><img src=\"https://z3.ax1x.com/2021/06/28/RUGOaR.png\" alt=\"RUGOaR.png\"></a></p>\n",
+            "tags": [
+                "算法与数据结构"
+            ]
+        }
+    ]
+}
