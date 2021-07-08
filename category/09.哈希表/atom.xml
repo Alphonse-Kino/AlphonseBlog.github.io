@@ -30,6 +30,9 @@
     <category term="归并排序" />
     <category term="基数排序" />
     <category term="堆排序" />
+    <category term="二叉树" />
+    <category term="顺序存储二叉树" />
+    <category term="线索化二叉树" />
     <entry>
         <id>https://alphonse-kino.github.io/2021/07/07/09.%E5%93%88%E5%B8%8C%E8%A1%A8/</id>
         <title>哈希表</title>

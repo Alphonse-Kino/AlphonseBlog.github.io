@@ -33,6 +33,9 @@
         <category>归并排序</category>
         <category>基数排序</category>
         <category>堆排序</category>
+        <category>二叉树</category>
+        <category>顺序存储二叉树</category>
+        <category>线索化二叉树</category>
         <item>
             <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/07/08.%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</guid>
             <title>查找算法</title>

@@ -30,6 +30,9 @@
     <category term="归并排序" />
     <category term="基数排序" />
     <category term="堆排序" />
+    <category term="二叉树" />
+    <category term="顺序存储二叉树" />
+    <category term="线索化二叉树" />
     <entry>
         <id>https://alphonse-kino.github.io/2021/07/07/06.%E9%80%92%E5%BD%92/</id>
         <title>递归</title>

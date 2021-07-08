@@ -30,6 +30,9 @@
     <category term="归并排序" />
     <category term="基数排序" />
     <category term="堆排序" />
+    <category term="二叉树" />
+    <category term="顺序存储二叉树" />
+    <category term="线索化二叉树" />
     <entry>
         <id>https://alphonse-kino.github.io/2021/06/30/%E9%BB%91%E9%A9%AC%E8%B7%AF%E7%BA%BF%E5%9B%BE/</id>
         <title>黑马路线图</title>
