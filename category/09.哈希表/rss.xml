@@ -36,6 +36,10 @@
         <category>二叉树</category>
         <category>顺序存储二叉树</category>
         <category>线索化二叉树</category>
+        <category>赫夫曼树</category>
+        <category>赫夫曼编码</category>
+        <category>二叉排序树</category>
+        <category>平衡二叉树</category>
         <item>
             <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/07/09.%E5%93%88%E5%B8%8C%E8%A1%A8/</guid>
             <title>哈希表</title>

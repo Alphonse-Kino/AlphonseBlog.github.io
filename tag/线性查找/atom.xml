@@ -33,6 +33,10 @@
     <category term="二叉树" />
     <category term="顺序存储二叉树" />
     <category term="线索化二叉树" />
+    <category term="赫夫曼树" />
+    <category term="赫夫曼编码" />
+    <category term="二叉排序树" />
+    <category term="平衡二叉树" />
     <entry>
         <id>https://alphonse-kino.github.io/2021/07/07/08.%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</id>
         <title>查找算法</title>

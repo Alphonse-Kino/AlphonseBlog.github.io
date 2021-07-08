@@ -33,6 +33,10 @@
     <category term="二叉树" />
     <category term="顺序存储二叉树" />
     <category term="线索化二叉树" />
+    <category term="赫夫曼树" />
+    <category term="赫夫曼编码" />
+    <category term="二叉排序树" />
+    <category term="平衡二叉树" />
     <entry>
         <id>https://alphonse-kino.github.io/2021/06/30/04.%E9%93%BE%E8%A1%A8LinkedList/</id>
         <title>链表LinkedList</title>
