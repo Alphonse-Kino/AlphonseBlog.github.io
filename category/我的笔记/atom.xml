@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alphonse-Kino.github.io</id>
-    <title>AlphonseKino • Posts by &#34;我的笔记&#34; category</title>
+    <title>品一份静谧人生 • Posts by &#34;我的笔记&#34; category</title>
     <link href="https://alphonse-Kino.github.io" />
     <updated>2021-06-30T03:56:20.012Z</updated>
     <category term="算法与数据结构" />
@@ -58,7 +58,8 @@
         <id>https://alphonse-kino.github.io/2021/06/30/%E7%BD%AE%E9%A1%B6/</id>
         <title>我的笔记</title>
         <link rel="alternate" href="https://alphonse-kino.github.io/2021/06/30/%E7%BD%AE%E9%A1%B6/"/>
-        <content type="html">&lt;p&gt;katex: true 开启数学公式&lt;br&gt;sticky: 100  置顶&lt;/p&gt;
+        <content type="html">&lt;p&gt;katex: true 开启数学公式&lt;br&gt;
+ sticky: 100  置顶&lt;/p&gt;
 </content>
         <category term="随手记" />
         <updated>2021-06-30T03:56:20.012Z</updated>

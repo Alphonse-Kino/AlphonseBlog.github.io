@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>AlphonseKino • Posts by &#34;我的笔记&#34; category</title>
+        <title>品一份静谧人生 • Posts by &#34;我的笔记&#34; category</title>
         <link>https://alphonse-Kino.github.io</link>
         <description></description>
         <language>zh-CN</language>
@@ -63,7 +63,8 @@
             <link>https://alphonse-kino.github.io/2021/06/30/%E7%BD%AE%E9%A1%B6/</link>
             <category>随手记</category>
             <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;katex: true 开启数学公式&lt;br&gt;sticky: 100  置顶&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;katex: true 开启数学公式&lt;br&gt;
+ sticky: 100  置顶&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

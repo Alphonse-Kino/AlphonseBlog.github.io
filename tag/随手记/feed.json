@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "AlphonseKino • All posts by \"随手记\" tag",
+    "title": "品一份静谧人生 • All posts by \"随手记\" tag",
     "description": "",
     "home_page_url": "https://alphonse-Kino.github.io",
     "items": [
@@ -9,7 +9,7 @@
             "url": "https://alphonse-kino.github.io/2021/06/30/%E7%BD%AE%E9%A1%B6/",
             "title": "我的笔记",
             "date_published": "2021-06-30T03:56:20.012Z",
-            "content_html": "<p>katex: true 开启数学公式<br>sticky: 100  置顶</p>\n",
+            "content_html": "<p>katex: true 开启数学公式<br>\n sticky: 100  置顶</p>\n",
             "tags": [
                 "随手记"
             ]
