@@ -12,11 +12,11 @@
         <category>稀疏数组</category>
         <category>队列</category>
         <category>递归</category>
+        <category>哈希表</category>
         <category>线性查找</category>
         <category>二分/折半查找</category>
         <category>插值查找</category>
         <category>斐波那契查找</category>
-        <category>哈希表</category>
         <category>多叉树</category>
         <category>B树</category>
         <category>B+树</category>
