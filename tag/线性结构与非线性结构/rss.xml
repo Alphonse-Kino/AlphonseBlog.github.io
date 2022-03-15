@@ -5,23 +5,21 @@
         <link>https://alphonse-Kino.github.io</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
-        <lastBuildDate>Wed, 30 Jun 2021 11:56:20 +0800</lastBuildDate>
-        <category>算法与数据结构</category>
+        <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
+        <lastBuildDate>Tue, 15 Mar 2022 22:08:27 +0800</lastBuildDate>
+        <category>线性结构与非线性结构</category>
         <category>稀疏数组</category>
         <category>队列</category>
-        <category>线性结构与非线性结构</category>
-        <category>哈希表</category>
         <category>递归</category>
         <category>线性查找</category>
         <category>二分/折半查找</category>
         <category>插值查找</category>
         <category>斐波那契查找</category>
+        <category>哈希表</category>
         <category>多叉树</category>
         <category>B树</category>
         <category>B+树</category>
         <category>B×树</category>
-        <category>路线图</category>
         <category>随手记</category>
         <category>单链表</category>
         <category>双链表</category>
@@ -58,14 +56,50 @@
         <category>弗洛伊德算法</category>
         <category>马踏棋盘算法</category>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/02.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9A%84%E5%85%B3%E7%B3%BB/</guid>
-            <title>数据结构与算法的关系</title>
-            <link>https://alphonse-kino.github.io/2021/06/30/02.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9A%84%E5%85%B3%E7%B3%BB/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/02%E3%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9A%84%E5%85%B3%E7%B3%BB/</guid>
+            <title>02、数据结构与算法的关系</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/02%E3%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9A%84%E5%85%B3%E7%B3%BB/</link>
             <category>线性结构与非线性结构</category>
-            <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUJJJ0&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUJJJ0.png&#34; alt=&#34;RUJJJ0.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUJYWV&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUJYWV.png&#34; alt=&#34;RUJYWV.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;简单介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#简单介绍&#34;&gt;#&lt;/a&gt; 简单介绍&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1、算法是程序的灵魂，优秀的程序可以在海量数据计算时，依然保持高速计算&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2、一般来讲程序会使用了内存计算框架 (比如 Spark) 和缓存技术 (比如 Redis 等) 来优化程序，再深入的思考一下，这些计算框架和缓存技术，它的核心功能是哪个部分呢？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3、拿实际工作经历来说，在 Unix 下开发服务器程序，功能是要支持上千万人同时在线，在上线前，做内测，一切 OK, 可上线后，服务器就支撑不住了，公司的 CTO 对代码进行优化，再次上线，坚如磐石。你就能感受到程序是有灵魂的，就是算法。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4、目前程序员面试的门槛越来越高，很多一线 IT 公司 (大厂)，都会有数据结构和算法面试题 (负责的告诉你，肯定有的)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;5、如果你不想永远都是代码工人，那就花时间来研究下数据结构和算法&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;数据结构和算法的关系&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据结构和算法的关系&#34;&gt;#&lt;/a&gt; 数据结构和算法的关系&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;1、数据 data 结构 (structure) 是一门研究组织数据方式的学科，有了编程语言也就有了数据结构。学好数据结构可以&lt;br&gt;
+编写出更加漂亮，更加有效率的代码。&lt;/li&gt;
+&lt;li&gt;2、要学习好数据结构就要多多考虑如何将生活中遇到的问题，用程序去实现解决.&lt;/li&gt;
+&lt;li&gt;3、程序 = 数据结构＋算法&lt;/li&gt;
+&lt;li&gt;4、数据结构是算法的基础，换言之，想要学好算法，需要把数据结构学到位。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;线性结构和非线性结构&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#线性结构和非线性结构&#34;&gt;#&lt;/a&gt; 线性结构和非线性结构&lt;/h1&gt;
+&lt;p&gt;数据结构包括：线性结构和非线性结构。&lt;br&gt;
+1、线性结构&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1、线性结构作为最常用的数据结构，其特点是数据元素之间存在一对一的线性关系&lt;/li&gt;
+&lt;li&gt;2、线性结构有两种不同的存储结构，即顺序存储结构 (数组) 和链式存储结构 (链表)。顺序存储的线性表称为顺序表，顺序表中的存储元素是连续的&lt;/li&gt;
+&lt;li&gt;3、链式存储的线性表称为链表，链表中的存储元素不一定是连续的，元素节点中存放数据元素以及相邻元素的地址信息&lt;/li&gt;
+&lt;li&gt;4、线性结构常见的有：数组、队列、链表和栈，后面我们会详细讲解.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2、非线性结构&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;非线性结构包括：二维数组，多维数组，广义表，树结构，图结构&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
     </channel>

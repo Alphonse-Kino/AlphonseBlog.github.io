@@ -3,22 +3,20 @@
     <id>https://alphonse-Kino.github.io</id>
     <title>品一份静谧人生 • Posts by &#34;b树&#34; tag</title>
     <link href="https://alphonse-Kino.github.io" />
-    <updated>2021-07-08T14:03:46.220Z</updated>
-    <category term="算法与数据结构" />
+    <updated>2022-03-15T14:08:27.194Z</updated>
+    <category term="线性结构与非线性结构" />
     <category term="稀疏数组" />
     <category term="队列" />
-    <category term="线性结构与非线性结构" />
-    <category term="哈希表" />
     <category term="递归" />
     <category term="线性查找" />
     <category term="二分/折半查找" />
     <category term="插值查找" />
     <category term="斐波那契查找" />
+    <category term="哈希表" />
     <category term="多叉树" />
     <category term="B树" />
     <category term="B+树" />
     <category term="B×树" />
-    <category term="路线图" />
     <category term="随手记" />
     <category term="单链表" />
     <category term="双链表" />
@@ -55,9 +53,9 @@
     <category term="弗洛伊德算法" />
     <category term="马踏棋盘算法" />
     <entry>
-        <id>https://alphonse-kino.github.io/2021/07/08/12.%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/</id>
-        <title>多路查找树</title>
-        <link rel="alternate" href="https://alphonse-kino.github.io/2021/07/08/12.%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/"/>
+        <id>https://alphonse-kino.github.io/2022/03/15/12%E3%80%81%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/</id>
+        <title>12、多路查找树</title>
+        <link rel="alternate" href="https://alphonse-kino.github.io/2022/03/15/12%E3%80%81%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/"/>
         <content type="html">&lt;h2 id=&#34;二叉树存在的问题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二叉树存在的问题&#34;&gt;#&lt;/a&gt; 二叉树存在的问题&lt;/h2&gt;
 &lt;p&gt;二叉树的操作效率较高，但是也存在问题，请看下面的二叉树&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/R7fPMj&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/07/07/R7fPMj.png&#34; alt=&#34;R7fPMj.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -174,11 +172,10 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 </content>
-        <category term="算法与数据结构" />
         <category term="多叉树" />
         <category term="B树" />
         <category term="B+树" />
         <category term="B×树" />
-        <updated>2021-07-08T14:03:46.220Z</updated>
+        <updated>2022-03-15T14:08:27.194Z</updated>
     </entry>
 </feed>

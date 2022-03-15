@@ -1,22 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>算法简介</title>
-    <url>/2021/06/30/01.%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/</url>
-    <content><![CDATA[<p><a href="https://imgtu.com/i/RUGLZ9"><img src="https://z3.ax1x.com/2021/06/28/RUGLZ9.png" alt="RUGLZ9.png"></a></p>
-<p><a href="https://imgtu.com/i/RUGOaR"><img src="https://z3.ax1x.com/2021/06/28/RUGOaR.png" alt="RUGOaR.png"></a></p>
+    <title>01、算法简介</title>
+    <url>/2022/03/15/01%E3%80%81%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/</url>
+    <content><![CDATA[<p><a href="https://imgtu.com/i/RUGOaR"><img src="https://z3.ax1x.com/2021/06/28/RUGOaR.png" alt="RUGOaR.png"></a></p>
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>01.算法简介</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>02、数据结构与算法的关系</title>
+    <url>/2022/03/15/02%E3%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9A%84%E5%85%B3%E7%B3%BB/</url>
+    <content><![CDATA[<h1 id="简单介绍"><a class="markdownIt-Anchor" href="#简单介绍">#</a> 简单介绍</h1>
+<ul>
+<li>
+<p>1、算法是程序的灵魂，优秀的程序可以在海量数据计算时，依然保持高速计算</p>
+</li>
+<li>
+<p>2、一般来讲程序会使用了内存计算框架 (比如 Spark) 和缓存技术 (比如 Redis 等) 来优化程序，再深入的思考一下，这些计算框架和缓存技术，它的核心功能是哪个部分呢？</p>
+</li>
+<li>
+<p>3、拿实际工作经历来说，在 Unix 下开发服务器程序，功能是要支持上千万人同时在线，在上线前，做内测，一切 OK, 可上线后，服务器就支撑不住了，公司的 CTO 对代码进行优化，再次上线，坚如磐石。你就能感受到程序是有灵魂的，就是算法。</p>
+</li>
+<li>
+<p>4、目前程序员面试的门槛越来越高，很多一线 IT 公司 (大厂)，都会有数据结构和算法面试题 (负责的告诉你，肯定有的)</p>
+</li>
+<li>
+<p>5、如果你不想永远都是代码工人，那就花时间来研究下数据结构和算法</p>
+</li>
+</ul>
+<h1 id="数据结构和算法的关系"><a class="markdownIt-Anchor" href="#数据结构和算法的关系">#</a> 数据结构和算法的关系</h1>
+<ul>
+<li>1、数据 data 结构 (structure) 是一门研究组织数据方式的学科，有了编程语言也就有了数据结构。学好数据结构可以<br>
+编写出更加漂亮，更加有效率的代码。</li>
+<li>2、要学习好数据结构就要多多考虑如何将生活中遇到的问题，用程序去实现解决.</li>
+<li>3、程序 = 数据结构＋算法</li>
+<li>4、数据结构是算法的基础，换言之，想要学好算法，需要把数据结构学到位。</li>
+</ul>
+<h1 id="线性结构和非线性结构"><a class="markdownIt-Anchor" href="#线性结构和非线性结构">#</a> 线性结构和非线性结构</h1>
+<p>数据结构包括：线性结构和非线性结构。<br>
+1、线性结构</p>
+<ul>
+<li>1、线性结构作为最常用的数据结构，其特点是数据元素之间存在一对一的线性关系</li>
+<li>2、线性结构有两种不同的存储结构，即顺序存储结构 (数组) 和链式存储结构 (链表)。顺序存储的线性表称为顺序表，顺序表中的存储元素是连续的</li>
+<li>3、链式存储的线性表称为链表，链表中的存储元素不一定是连续的，元素节点中存放数据元素以及相邻元素的地址信息</li>
+<li>4、线性结构常见的有：数组、队列、链表和栈，后面我们会详细讲解.</li>
+</ul>
+<p>2、非线性结构</p>
+<ul>
+<li>非线性结构包括：二维数组，多维数组，广义表，树结构，图结构</li>
+</ul>
+]]></content>
+      <categories>
+        <category>算法与数据结构</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
+        <tag>线性结构与非线性结构</tag>
       </tags>
   </entry>
   <entry>
-    <title>稀疏数组与队列</title>
-    <url>/2021/06/30/03.%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84%E5%92%8C%E9%98%9F%E5%88%97/</url>
+    <title>03、稀疏数组与队列</title>
+    <url>/2022/03/15/03%E3%80%81%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84%E5%92%8C%E9%98%9F%E5%88%97/</url>
     <content><![CDATA[<h2 id="稀疏数组"><a class="markdownIt-Anchor" href="#稀疏数组">#</a> 稀疏数组</h2>
 <p><a href="https://imgtu.com/i/RwkEUe"><img src="https://z3.ax1x.com/2021/06/29/RwkEUe.png" alt="RwkEUe.png"></a></p>
 <p><a href="https://imgtu.com/i/RwkAED"><img src="https://z3.ax1x.com/2021/06/29/RwkAED.png" alt="RwkAED.png"></a></p>
@@ -39,56 +84,15 @@
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>03.稀疏数组与队列</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>稀疏数组</tag>
         <tag>队列</tag>
       </tags>
   </entry>
   <entry>
-    <title>数据结构与算法的关系</title>
-    <url>/2021/06/30/02.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9A%84%E5%85%B3%E7%B3%BB/</url>
-    <content><![CDATA[<p><a href="https://imgtu.com/i/RUJJJ0"><img src="https://z3.ax1x.com/2021/06/28/RUJJJ0.png" alt="RUJJJ0.png"></a></p>
-<p><a href="https://imgtu.com/i/RUJYWV"><img src="https://z3.ax1x.com/2021/06/28/RUJYWV.png" alt="RUJYWV.png"></a></p>
-]]></content>
-      <categories>
-        <category>算法与数据结构</category>
-        <category>02.数据结构与算法的关系</category>
-      </categories>
-      <tags>
-        <tag>算法与数据结构</tag>
-        <tag>线性结构与非线性结构</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>哈希表</title>
-    <url>/2021/07/07/09.%E5%93%88%E5%B8%8C%E8%A1%A8/</url>
-    <content><![CDATA[<h1 id="哈希表"><a class="markdownIt-Anchor" href="#哈希表">#</a> 哈希表</h1>
-<h2 id="基本介绍"><a class="markdownIt-Anchor" href="#基本介绍">#</a> 基本介绍</h2>
-<p><strong>散列表</strong>（Hash table，也叫哈希表）</p>
-<p>​	根据关键码值（key value）而直接进行访问<strong>数据结构</strong>。也就是说，他通过吧关键码值映射到表中一个位置来访问记录，以加快查找的速度。这个映射函数叫做<strong>散列函数</strong>，存放记录的数组叫做<strong>散列表</strong></p>
-<p><a href="https://imgtu.com/i/R7mCTJ"><img src="https://z3.ax1x.com/2021/07/06/R7mCTJ.png" alt="R7mCTJ.png"></a></p>
-<p><a href="https://imgtu.com/i/R7mFYR"><img src="https://z3.ax1x.com/2021/07/06/R7mFYR.png" alt="R7mFYR.png"></a></p>
-<p><a href="https://imgtu.com/i/R7e7wQ"><img src="https://z3.ax1x.com/2021/07/06/R7e7wQ.png" alt="R7e7wQ.png"></a></p>
-<h3 id="例题"><a class="markdownIt-Anchor" href="#例题">#</a> 例题</h3>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">有一个公司,当有新的员工来报道时,要求将该员工的信息加入(id,性别,年龄,名字,住址..),当输入该员工的id时,要求查找到该员工的所有信息.</span><br><span class="line">要求: </span><br><span class="line">不使用数据库,,速度越快越好=&gt;哈希表(散列)</span><br><span class="line">添加时，保证按照id从低到高插入  </span><br><span class="line">[课后思考：如果id不是从低到高插入，但要求各条链表仍是从低到高，怎么解决?]</span><br></pre></td></tr></table></figure>
-<p><a href="https://imgtu.com/i/R7mkf1"><img src="https://z3.ax1x.com/2021/07/06/R7mkf1.png" alt="R7mkf1.png"></a></p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">package</span> demo01;</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> java.util.Scanner;</span><br><span class="line"></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">HashTabDemo</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">        <span class="comment">//创建哈希表</span></span><br><span class="line">        HashTab hashTab=<span class="keyword">new</span> HashTab(<span class="number">7</span>);</span><br><span class="line">        <span class="comment">//写一个简单陈的菜单</span></span><br><span class="line">        String key=<span class="string">&quot;&quot;</span>;</span><br><span class="line">        Scanner scanner = <span class="keyword">new</span> Scanner(System.in);</span><br><span class="line">        <span class="keyword">while</span> (<span class="keyword">true</span>)&#123;</span><br><span class="line">            System.out.println(<span class="string">&quot;add:  添加雇员&quot;</span>);</span><br><span class="line">            System.out.println(<span class="string">&quot;list: 显示雇员&quot;</span>);</span><br><span class="line">            System.out.println(<span class="string">&quot;find: 查找雇员&quot;</span>);</span><br><span class="line">            System.out.println(<span class="string">&quot;exit: 退出系统&quot;</span>);</span><br><span class="line"></span><br><span class="line">            key=scanner.next();</span><br><span class="line">            <span class="keyword">switch</span> (key)&#123;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;add&quot;</span>:</span><br><span class="line">                System.out.println(<span class="string">&quot;输入id&quot;</span>);</span><br><span class="line">                    <span class="keyword">int</span> id = scanner.nextInt();</span><br><span class="line">                    System.out.println(<span class="string">&quot;输入姓名&quot;</span>);</span><br><span class="line">                    String name = scanner.next();</span><br><span class="line">                    <span class="comment">//创建雇员</span></span><br><span class="line">                    Emp emp=<span class="keyword">new</span> Emp(id,name);</span><br><span class="line">                    hashTab.add(emp);</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;list&quot;</span>:</span><br><span class="line">                    hashTab.list();</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;find&quot;</span>:</span><br><span class="line">                    System.out.println(<span class="string">&quot;请输入查找的 id&quot;</span>);</span><br><span class="line">                    id = scanner.nextInt();</span><br><span class="line">                    hashTab.findEmpById(id);</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;exit&quot;</span>:</span><br><span class="line">                    scanner.close();</span><br><span class="line">                    System.exit(<span class="number">0</span>);</span><br><span class="line">                <span class="keyword">default</span>:</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//创建HashTable 管理多条链表</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">HashTab</span> </span>&#123;</span><br><span class="line">    <span class="keyword">private</span> EmpLinkedList[] empLinkedListArray;</span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">int</span> size;  <span class="comment">//表示共有多少条链表</span></span><br><span class="line"></span><br><span class="line">    <span class="comment">//构造器</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="title">HashTab</span><span class="params">(<span class="keyword">int</span> size)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">this</span>.size=size;</span><br><span class="line">        <span class="comment">//初始化 empLinkedListArray</span></span><br><span class="line">        empLinkedListArray = <span class="keyword">new</span> EmpLinkedList[size];</span><br><span class="line">        <span class="comment">// ?????这是不要忘了分别初始化每条链表</span></span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; size; i++) &#123;</span><br><span class="line">            empLinkedListArray[i]=<span class="keyword">new</span> EmpLinkedList();</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//添加雇员</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">add</span><span class="params">(Emp emp)</span> </span>&#123;</span><br><span class="line">        <span class="comment">//根据员工的id，得到该员工应当添加到那条链表</span></span><br><span class="line">        <span class="keyword">int</span> empLinkListNO=hashFun(emp.id);</span><br><span class="line">        <span class="comment">//将emp 添加到对应的链表中</span></span><br><span class="line">        empLinkedListArray[empLinkListNO].add(emp);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//遍历所有的链表,遍历hashTab</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">list</span><span class="params">()</span></span>&#123;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; size; i++) &#123;</span><br><span class="line">            empLinkedListArray[i].list(i);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//根据输入的id，查找雇员</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">findEmpById</span><span class="params">(<span class="keyword">int</span> id)</span></span>&#123;</span><br><span class="line">        <span class="comment">//使用散列函数确定到哪条链表查找</span></span><br><span class="line">        <span class="keyword">int</span> empLinkedListNO=hashFun(id);</span><br><span class="line">        Emp emp=empLinkedListArray[empLinkedListNO].findEmpById(id);</span><br><span class="line">        <span class="keyword">if</span> (emp!=<span class="keyword">null</span>)&#123;<span class="comment">//找到</span></span><br><span class="line">            System.out.printf(<span class="string">&quot;在第 %d 链表中找到 雇员 id=%d\n&quot;</span>,(empLinkedListNO+<span class="number">1</span>),id);</span><br><span class="line">        &#125;<span class="keyword">else</span> &#123;</span><br><span class="line">            System.out.println(<span class="string">&quot;在哈希表中，没有找到该雇员~~&quot;</span>);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//编写一个散列函数，使用一个简单的取模法</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">hashFun</span><span class="params">(<span class="keyword">int</span> id)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> id % size;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">//表示 一个雇员</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Emp</span> </span>&#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">int</span> id;</span><br><span class="line">    <span class="keyword">public</span> String name;</span><br><span class="line">    <span class="keyword">public</span> Emp next;  <span class="comment">//  next 默认为null</span></span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="title">Emp</span><span class="params">(<span class="keyword">int</span> id, String name)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">this</span>.id = id;</span><br><span class="line">        <span class="keyword">this</span>.name = name;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//创建 EmpLinkedList，表示链表</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">EmpLinkedList</span> </span>&#123;</span><br><span class="line">    <span class="comment">//头指针，指向第一个Emp，因此我们这个链表的head是直接指向第一个 Emp</span></span><br><span class="line">    <span class="keyword">private</span> Emp head; <span class="comment">//默认为null</span></span><br><span class="line"></span><br><span class="line">    <span class="comment">//添加雇员到链表</span></span><br><span class="line">    <span class="comment">//说明</span></span><br><span class="line">    <span class="comment">//1.假定，当添加雇员时，id 是自增长的，即id的分配总是从小到大</span></span><br><span class="line">    <span class="comment">//   因此我们将该雇员直接加入到本链表的最后即可</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">add</span><span class="params">(Emp emp)</span> </span>&#123;</span><br><span class="line">        <span class="comment">//如果是添加第一个雇员</span></span><br><span class="line">        <span class="keyword">if</span> (head == <span class="keyword">null</span>) &#123;</span><br><span class="line">            head = emp;</span><br><span class="line">            <span class="keyword">return</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//如果不是第一个雇员，则使用一个辅助 指针，帮助定位到最后</span></span><br><span class="line">        Emp curEmp = head;</span><br><span class="line">        <span class="keyword">while</span> (<span class="keyword">true</span>) &#123;</span><br><span class="line">            <span class="keyword">if</span> (curEmp.next == <span class="keyword">null</span>) &#123;<span class="comment">//说明到链表最后</span></span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">            curEmp = curEmp.next;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//退出时直接将 emp 加入到链表</span></span><br><span class="line">        curEmp.next = emp;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//遍历链表的雇员信息</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">list</span><span class="params">(<span class="keyword">int</span> no)</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">if</span> (head == <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="comment">//说明链表为 null</span></span><br><span class="line">            System.out.println(<span class="string">&quot;第&quot;</span>+(no+<span class="number">1</span>)+<span class="string">&quot;条链表为 null&quot;</span>);</span><br><span class="line">            <span class="keyword">return</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        System.out.print(<span class="string">&quot;第&quot;</span>+(no+<span class="number">1</span>)+<span class="string">&quot;条链表的信息为：&quot;</span>);</span><br><span class="line">        Emp curEmp = head;<span class="comment">//辅助指针</span></span><br><span class="line">        <span class="keyword">while</span> (<span class="keyword">true</span>) &#123;</span><br><span class="line">            System.out.printf(<span class="string">&quot;=&gt; id=%d,name=%s\n&quot;</span>, curEmp.id, curEmp.name);</span><br><span class="line">            <span class="keyword">if</span> (curEmp.next == <span class="keyword">null</span>) &#123;</span><br><span class="line">                <span class="comment">//说明curEmp 已经是最后一个节点</span></span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">            curEmp = curEmp.next;<span class="comment">//后移</span></span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//根据id查找雇员</span></span><br><span class="line">    <span class="comment">//如果查找到，就返回Emp，如果没找到，就返回 null</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> Emp <span class="title">findEmpById</span><span class="params">(<span class="keyword">int</span> id)</span></span>&#123;</span><br><span class="line">        <span class="comment">//判断链表是否为 null</span></span><br><span class="line">        <span class="keyword">if</span>(head==<span class="keyword">null</span>)&#123;</span><br><span class="line">            System.out.println(<span class="string">&quot;链表为 null&quot;</span>);</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">null</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//辅助指针</span></span><br><span class="line">        Emp curEmp=head;</span><br><span class="line">        <span class="keyword">while</span> (<span class="keyword">true</span>)&#123;</span><br><span class="line">            <span class="keyword">if</span>(curEmp.id==id)&#123;<span class="comment">//找到</span></span><br><span class="line">                <span class="keyword">break</span>;<span class="comment">//这时curEmp就指向要查找的雇员</span></span><br><span class="line">            &#125;</span><br><span class="line">            <span class="comment">//退出条件</span></span><br><span class="line">            <span class="keyword">if</span>(curEmp.next==<span class="keyword">null</span>)&#123;</span><br><span class="line">                <span class="comment">//说明遍历当前链表没有找到该雇员</span></span><br><span class="line">                curEmp=<span class="keyword">null</span>;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">            curEmp=curEmp.next;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> curEmp;</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>算法与数据结构</category>
-        <category>09.哈希表</category>
-      </categories>
-      <tags>
-        <tag>算法与数据结构</tag>
-        <tag>哈希表</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>递归</title>
-    <url>/2021/07/07/06.%E9%80%92%E5%BD%92/</url>
+    <title>06、递归</title>
+    <url>/2022/03/15/06%E3%80%81%E9%80%92%E5%BD%92/</url>
     <content><![CDATA[<h3 id="递归recursion"><a class="markdownIt-Anchor" href="#递归recursion">#</a> 递归 (Recursion)</h3>
 <h4 id="递归的概念"><a class="markdownIt-Anchor" href="#递归的概念">#</a> 递归的概念</h4>
 <p>递归就是方法自己调用自己，每次调用时传入不同的变量 **.**<strong> 递归有助于编程者解决复杂的问题</strong>，同时可以让代码变得简洁。</p>
@@ -150,16 +154,14 @@
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>06.递归</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>递归</tag>
       </tags>
   </entry>
   <entry>
-    <title>查找算法</title>
-    <url>/2021/07/07/08.%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</url>
+    <title>08、查找算法</title>
+    <url>/2022/03/15/08%E3%80%81%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h1 id="查找算法介绍"><a class="markdownIt-Anchor" href="#查找算法介绍">#</a> 查找算法介绍</h1>
 <p>在 java 中，我们常用的查找有四种：</p>
 <ol>
@@ -222,10 +224,8 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>08.查找算法</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>线性查找</tag>
         <tag>二分/折半查找</tag>
         <tag>插值查找</tag>
@@ -233,8 +233,30 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
       </tags>
   </entry>
   <entry>
-    <title>多路查找树</title>
-    <url>/2021/07/08/12.%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/</url>
+    <title>09、哈希表</title>
+    <url>/2022/03/15/09%E3%80%81%E5%93%88%E5%B8%8C%E8%A1%A8/</url>
+    <content><![CDATA[<h1 id="哈希表"><a class="markdownIt-Anchor" href="#哈希表">#</a> 哈希表</h1>
+<h2 id="基本介绍"><a class="markdownIt-Anchor" href="#基本介绍">#</a> 基本介绍</h2>
+<p><strong>散列表</strong>（Hash table，也叫哈希表）</p>
+<p>​	根据关键码值（key value）而直接进行访问<strong>数据结构</strong>。也就是说，他通过吧关键码值映射到表中一个位置来访问记录，以加快查找的速度。这个映射函数叫做<strong>散列函数</strong>，存放记录的数组叫做<strong>散列表</strong></p>
+<p><a href="https://imgtu.com/i/R7mCTJ"><img src="https://z3.ax1x.com/2021/07/06/R7mCTJ.png" alt="R7mCTJ.png"></a></p>
+<p><a href="https://imgtu.com/i/R7mFYR"><img src="https://z3.ax1x.com/2021/07/06/R7mFYR.png" alt="R7mFYR.png"></a></p>
+<p><a href="https://imgtu.com/i/R7e7wQ"><img src="https://z3.ax1x.com/2021/07/06/R7e7wQ.png" alt="R7e7wQ.png"></a></p>
+<h3 id="例题"><a class="markdownIt-Anchor" href="#例题">#</a> 例题</h3>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">有一个公司,当有新的员工来报道时,要求将该员工的信息加入(id,性别,年龄,名字,住址..),当输入该员工的id时,要求查找到该员工的所有信息.</span><br><span class="line">要求: </span><br><span class="line">不使用数据库,,速度越快越好=&gt;哈希表(散列)</span><br><span class="line">添加时，保证按照id从低到高插入  </span><br><span class="line">[课后思考：如果id不是从低到高插入，但要求各条链表仍是从低到高，怎么解决?]</span><br></pre></td></tr></table></figure>
+<p><a href="https://imgtu.com/i/R7mkf1"><img src="https://z3.ax1x.com/2021/07/06/R7mkf1.png" alt="R7mkf1.png"></a></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">package</span> demo01;</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> java.util.Scanner;</span><br><span class="line"></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">HashTabDemo</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">        <span class="comment">//创建哈希表</span></span><br><span class="line">        HashTab hashTab=<span class="keyword">new</span> HashTab(<span class="number">7</span>);</span><br><span class="line">        <span class="comment">//写一个简单陈的菜单</span></span><br><span class="line">        String key=<span class="string">&quot;&quot;</span>;</span><br><span class="line">        Scanner scanner = <span class="keyword">new</span> Scanner(System.in);</span><br><span class="line">        <span class="keyword">while</span> (<span class="keyword">true</span>)&#123;</span><br><span class="line">            System.out.println(<span class="string">&quot;add:  添加雇员&quot;</span>);</span><br><span class="line">            System.out.println(<span class="string">&quot;list: 显示雇员&quot;</span>);</span><br><span class="line">            System.out.println(<span class="string">&quot;find: 查找雇员&quot;</span>);</span><br><span class="line">            System.out.println(<span class="string">&quot;exit: 退出系统&quot;</span>);</span><br><span class="line"></span><br><span class="line">            key=scanner.next();</span><br><span class="line">            <span class="keyword">switch</span> (key)&#123;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;add&quot;</span>:</span><br><span class="line">                System.out.println(<span class="string">&quot;输入id&quot;</span>);</span><br><span class="line">                    <span class="keyword">int</span> id = scanner.nextInt();</span><br><span class="line">                    System.out.println(<span class="string">&quot;输入姓名&quot;</span>);</span><br><span class="line">                    String name = scanner.next();</span><br><span class="line">                    <span class="comment">//创建雇员</span></span><br><span class="line">                    Emp emp=<span class="keyword">new</span> Emp(id,name);</span><br><span class="line">                    hashTab.add(emp);</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;list&quot;</span>:</span><br><span class="line">                    hashTab.list();</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;find&quot;</span>:</span><br><span class="line">                    System.out.println(<span class="string">&quot;请输入查找的 id&quot;</span>);</span><br><span class="line">                    id = scanner.nextInt();</span><br><span class="line">                    hashTab.findEmpById(id);</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;exit&quot;</span>:</span><br><span class="line">                    scanner.close();</span><br><span class="line">                    System.exit(<span class="number">0</span>);</span><br><span class="line">                <span class="keyword">default</span>:</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//创建HashTable 管理多条链表</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">HashTab</span> </span>&#123;</span><br><span class="line">    <span class="keyword">private</span> EmpLinkedList[] empLinkedListArray;</span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">int</span> size;  <span class="comment">//表示共有多少条链表</span></span><br><span class="line"></span><br><span class="line">    <span class="comment">//构造器</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="title">HashTab</span><span class="params">(<span class="keyword">int</span> size)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">this</span>.size=size;</span><br><span class="line">        <span class="comment">//初始化 empLinkedListArray</span></span><br><span class="line">        empLinkedListArray = <span class="keyword">new</span> EmpLinkedList[size];</span><br><span class="line">        <span class="comment">// ?????这是不要忘了分别初始化每条链表</span></span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; size; i++) &#123;</span><br><span class="line">            empLinkedListArray[i]=<span class="keyword">new</span> EmpLinkedList();</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//添加雇员</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">add</span><span class="params">(Emp emp)</span> </span>&#123;</span><br><span class="line">        <span class="comment">//根据员工的id，得到该员工应当添加到那条链表</span></span><br><span class="line">        <span class="keyword">int</span> empLinkListNO=hashFun(emp.id);</span><br><span class="line">        <span class="comment">//将emp 添加到对应的链表中</span></span><br><span class="line">        empLinkedListArray[empLinkListNO].add(emp);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//遍历所有的链表,遍历hashTab</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">list</span><span class="params">()</span></span>&#123;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; size; i++) &#123;</span><br><span class="line">            empLinkedListArray[i].list(i);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//根据输入的id，查找雇员</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">findEmpById</span><span class="params">(<span class="keyword">int</span> id)</span></span>&#123;</span><br><span class="line">        <span class="comment">//使用散列函数确定到哪条链表查找</span></span><br><span class="line">        <span class="keyword">int</span> empLinkedListNO=hashFun(id);</span><br><span class="line">        Emp emp=empLinkedListArray[empLinkedListNO].findEmpById(id);</span><br><span class="line">        <span class="keyword">if</span> (emp!=<span class="keyword">null</span>)&#123;<span class="comment">//找到</span></span><br><span class="line">            System.out.printf(<span class="string">&quot;在第 %d 链表中找到 雇员 id=%d\n&quot;</span>,(empLinkedListNO+<span class="number">1</span>),id);</span><br><span class="line">        &#125;<span class="keyword">else</span> &#123;</span><br><span class="line">            System.out.println(<span class="string">&quot;在哈希表中，没有找到该雇员~~&quot;</span>);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//编写一个散列函数，使用一个简单的取模法</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">hashFun</span><span class="params">(<span class="keyword">int</span> id)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> id % size;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">//表示 一个雇员</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Emp</span> </span>&#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">int</span> id;</span><br><span class="line">    <span class="keyword">public</span> String name;</span><br><span class="line">    <span class="keyword">public</span> Emp next;  <span class="comment">//  next 默认为null</span></span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="title">Emp</span><span class="params">(<span class="keyword">int</span> id, String name)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">this</span>.id = id;</span><br><span class="line">        <span class="keyword">this</span>.name = name;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//创建 EmpLinkedList，表示链表</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">EmpLinkedList</span> </span>&#123;</span><br><span class="line">    <span class="comment">//头指针，指向第一个Emp，因此我们这个链表的head是直接指向第一个 Emp</span></span><br><span class="line">    <span class="keyword">private</span> Emp head; <span class="comment">//默认为null</span></span><br><span class="line"></span><br><span class="line">    <span class="comment">//添加雇员到链表</span></span><br><span class="line">    <span class="comment">//说明</span></span><br><span class="line">    <span class="comment">//1.假定，当添加雇员时，id 是自增长的，即id的分配总是从小到大</span></span><br><span class="line">    <span class="comment">//   因此我们将该雇员直接加入到本链表的最后即可</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">add</span><span class="params">(Emp emp)</span> </span>&#123;</span><br><span class="line">        <span class="comment">//如果是添加第一个雇员</span></span><br><span class="line">        <span class="keyword">if</span> (head == <span class="keyword">null</span>) &#123;</span><br><span class="line">            head = emp;</span><br><span class="line">            <span class="keyword">return</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//如果不是第一个雇员，则使用一个辅助 指针，帮助定位到最后</span></span><br><span class="line">        Emp curEmp = head;</span><br><span class="line">        <span class="keyword">while</span> (<span class="keyword">true</span>) &#123;</span><br><span class="line">            <span class="keyword">if</span> (curEmp.next == <span class="keyword">null</span>) &#123;<span class="comment">//说明到链表最后</span></span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">            curEmp = curEmp.next;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//退出时直接将 emp 加入到链表</span></span><br><span class="line">        curEmp.next = emp;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//遍历链表的雇员信息</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">list</span><span class="params">(<span class="keyword">int</span> no)</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">if</span> (head == <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="comment">//说明链表为 null</span></span><br><span class="line">            System.out.println(<span class="string">&quot;第&quot;</span>+(no+<span class="number">1</span>)+<span class="string">&quot;条链表为 null&quot;</span>);</span><br><span class="line">            <span class="keyword">return</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        System.out.print(<span class="string">&quot;第&quot;</span>+(no+<span class="number">1</span>)+<span class="string">&quot;条链表的信息为：&quot;</span>);</span><br><span class="line">        Emp curEmp = head;<span class="comment">//辅助指针</span></span><br><span class="line">        <span class="keyword">while</span> (<span class="keyword">true</span>) &#123;</span><br><span class="line">            System.out.printf(<span class="string">&quot;=&gt; id=%d,name=%s\n&quot;</span>, curEmp.id, curEmp.name);</span><br><span class="line">            <span class="keyword">if</span> (curEmp.next == <span class="keyword">null</span>) &#123;</span><br><span class="line">                <span class="comment">//说明curEmp 已经是最后一个节点</span></span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">            curEmp = curEmp.next;<span class="comment">//后移</span></span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//根据id查找雇员</span></span><br><span class="line">    <span class="comment">//如果查找到，就返回Emp，如果没找到，就返回 null</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> Emp <span class="title">findEmpById</span><span class="params">(<span class="keyword">int</span> id)</span></span>&#123;</span><br><span class="line">        <span class="comment">//判断链表是否为 null</span></span><br><span class="line">        <span class="keyword">if</span>(head==<span class="keyword">null</span>)&#123;</span><br><span class="line">            System.out.println(<span class="string">&quot;链表为 null&quot;</span>);</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">null</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//辅助指针</span></span><br><span class="line">        Emp curEmp=head;</span><br><span class="line">        <span class="keyword">while</span> (<span class="keyword">true</span>)&#123;</span><br><span class="line">            <span class="keyword">if</span>(curEmp.id==id)&#123;<span class="comment">//找到</span></span><br><span class="line">                <span class="keyword">break</span>;<span class="comment">//这时curEmp就指向要查找的雇员</span></span><br><span class="line">            &#125;</span><br><span class="line">            <span class="comment">//退出条件</span></span><br><span class="line">            <span class="keyword">if</span>(curEmp.next==<span class="keyword">null</span>)&#123;</span><br><span class="line">                <span class="comment">//说明遍历当前链表没有找到该雇员</span></span><br><span class="line">                curEmp=<span class="keyword">null</span>;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">            curEmp=curEmp.next;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> curEmp;</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>算法与数据结构</category>
+      </categories>
+      <tags>
+        <tag>哈希表</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>12、多路查找树</title>
+    <url>/2022/03/15/12%E3%80%81%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/</url>
     <content><![CDATA[<h2 id="二叉树存在的问题"><a class="markdownIt-Anchor" href="#二叉树存在的问题">#</a> 二叉树存在的问题</h2>
 <p>二叉树的操作效率较高，但是也存在问题，请看下面的二叉树</p>
 <p><a href="https://imgtu.com/i/R7fPMj"><img src="https://z3.ax1x.com/2021/07/07/R7fPMj.png" alt="R7fPMj.png"></a></p>
@@ -353,10 +375,8 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>12.多路查找树</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>多叉树</tag>
         <tag>B树</tag>
         <tag>B+树</tag>
@@ -364,103 +384,21 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
       </tags>
   </entry>
   <entry>
-    <title>CSDN路线图</title>
-    <url>/2021/06/30/CSDN/</url>
-    <content><![CDATA[<p><a href="https://blog.csdn.net/One_L_Star/article/details/102394373">https://blog.csdn.net/One_L_Star/article/details/102394373</a><a href="https://imgtu.com/i/RU1A3D"><img src="https://z3.ax1x.com/2021/06/28/RU1A3D.png" alt="RU1A3D.png"></a><br>
-<a href="https://imgtu.com/i/RU1VjH"><img src="https://z3.ax1x.com/2021/06/28/RU1VjH.png" alt="RU1VjH.png"></a><br>
-<a href="https://imgtu.com/i/RU1eud"><img src="https://z3.ax1x.com/2021/06/28/RU1eud.png" alt="RU1eud.png"></a><br>
-<a href="https://imgtu.com/i/RU1nHI"><img src="https://z3.ax1x.com/2021/06/28/RU1nHI.png" alt="RU1nHI.png"></a><br>
-<a href="https://imgtu.com/i/RU1KEt"><img src="https://z3.ax1x.com/2021/06/28/RU1KEt.png" alt="RU1KEt.png"></a></p>
-<p><a href="https://imgtu.com/i/RU1Ege"><img src="https://z3.ax1x.com/2021/06/28/RU1Ege.png" alt="RU1Ege.png"></a><br>
-<a href="https://imgtu.com/i/RU1i4K"><img src="https://z3.ax1x.com/2021/06/28/RU1i4K.png" alt="RU1i4K.png"></a><br>
-<a href="https://imgtu.com/i/RU1k9O"><img src="https://z3.ax1x.com/2021/06/28/RU1k9O.png" alt="RU1k9O.png"></a></p>
-]]></content>
-      <categories>
-        <category>路线图</category>
-      </categories>
-      <tags>
-        <tag>路线图</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>敖丙路线图</title>
-    <url>/2021/06/30/%E6%95%96%E4%B8%99%E8%84%91%E5%9B%BE/</url>
-    <content><![CDATA[<p><a href="https://imgtu.com/i/RNNajO"><img src="https://z3.ax1x.com/2021/06/28/RNNajO.jpg" alt="RNNajO.jpg"></a></p>
-]]></content>
-      <categories>
-        <category>路线图</category>
-      </categories>
-      <tags>
-        <tag>路线图</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>尚硅谷路线图</title>
-    <url>/2021/06/30/%E5%B0%9A%E7%A1%85%E8%B0%B7%E8%B7%AF%E7%BA%BF%E5%9B%BE/</url>
-    <content><![CDATA[<p><a href="https://imgtu.com/i/RUnSBV"><img src="https://z3.ax1x.com/2021/06/28/RUnSBV.jpg" alt="RUnSBV.jpg"></a></p>
-<p><a href="https://imgtu.com/i/RUnQ4e"><img src="https://z3.ax1x.com/2021/06/28/RUnQ4e.png" alt="RUnQ4e.png"></a><br>
-<a href="https://imgtu.com/i/RUnMND"><img src="https://z3.ax1x.com/2021/06/28/RUnMND.png" alt="RUnMND.png"></a><br>
-<a href="https://imgtu.com/i/RUnKAO"><img src="https://z3.ax1x.com/2021/06/28/RUnKAO.png" alt="RUnKAO.png"></a></p>
-<p><a href="https://imgtu.com/i/RUn19H"><img src="https://z3.ax1x.com/2021/06/28/RUn19H.png" alt="RUn19H.png"></a></p>
-]]></content>
-      <categories>
-        <category>路线图</category>
-      </categories>
-      <tags>
-        <tag>路线图</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>狂神路线图</title>
-    <url>/2021/06/30/%E7%8B%82%E7%A5%9E%E8%B7%AF%E7%BA%BF%E5%9B%BE/</url>
-    <content><![CDATA[<p><a href="https://www.bilibili.com/read/cv5702420">https://www.bilibili.com/read/cv5702420</a></p>
-<p><a href="https://imgtu.com/i/RU3lZR"><img src="https://z3.ax1x.com/2021/06/28/RU3lZR.png" alt="RU3lZR.png"></a></p>
-<p><a href="https://imgtu.com/i/RU3ML9"><img src="https://z3.ax1x.com/2021/06/28/RU3ML9.png" alt="RU3ML9.png"></a><br>
-<a href="https://imgtu.com/i/RU31d1"><img src="https://z3.ax1x.com/2021/06/28/RU31d1.png" alt="RU31d1.png"></a><br>
-<a href="https://imgtu.com/i/RU3Gi6"><img src="https://z3.ax1x.com/2021/06/28/RU3Gi6.png" alt="RU3Gi6.png"></a></p>
-<p><a href="https://imgtu.com/i/RU3KsJ"><img src="https://z3.ax1x.com/2021/06/28/RU3KsJ.png" alt="RU3KsJ.png"></a><br>
-<a href="https://imgtu.com/i/RU3ZGT"><img src="https://z3.ax1x.com/2021/06/28/RU3ZGT.png" alt="RU3ZGT.png"></a><br>
-<a href="https://imgtu.com/i/RU3uM4"><img src="https://z3.ax1x.com/2021/06/28/RU3uM4.png" alt="RU3uM4.png"></a><br>
-<a href="https://imgtu.com/i/RU3mzF"><img src="https://z3.ax1x.com/2021/06/28/RU3mzF.png" alt="RU3mzF.png"></a><br>
-<a href="https://imgtu.com/i/RU3eRU"><img src="https://z3.ax1x.com/2021/06/28/RU3eRU.png" alt="RU3eRU.png"></a><br>
-<a href="https://imgtu.com/i/RU33Ix"><img src="https://z3.ax1x.com/2021/06/28/RU33Ix.png" alt="RU33Ix.png"></a></p>
-]]></content>
-      <categories>
-        <category>路线图</category>
-      </categories>
-      <tags>
-        <tag>路线图</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的笔记</title>
+    <title>置顶</title>
     <url>/2021/06/30/%E7%BD%AE%E9%A1%B6/</url>
     <content><![CDATA[<p>katex: true 开启数学公式<br>
  sticky: 100  置顶</p>
 ]]></content>
       <categories>
-        <category>我的笔记</category>
-        <category>生活</category>
+        <category>随手记</category>
       </categories>
       <tags>
         <tag>随手记</tag>
       </tags>
   </entry>
   <entry>
-    <title>黑马路线图</title>
-    <url>/2021/06/30/%E9%BB%91%E9%A9%AC%E8%B7%AF%E7%BA%BF%E5%9B%BE/</url>
-    <content><![CDATA[<p><a href="https://imgtu.com/i/RUlhcQ"><img src="https://z3.ax1x.com/2021/06/28/RUlhcQ.png" alt="RUlhcQ.png"></a></p>
-]]></content>
-      <categories>
-        <category>路线图</category>
-      </categories>
-      <tags>
-        <tag>路线图</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>链表LinkedList</title>
-    <url>/2021/06/30/04.%E9%93%BE%E8%A1%A8LinkedList/</url>
+    <title>04、链表LinkedList</title>
+    <url>/2022/03/15/04%E3%80%81%E9%93%BE%E8%A1%A8LinkedList/</url>
     <content><![CDATA[<h2 id="链表linkedlist"><a class="markdownIt-Anchor" href="#链表linkedlist">#</a> 链表 LinkedList</h2>
 <h3 id="链表简介"><a class="markdownIt-Anchor" href="#链表简介">#</a> 链表简介</h3>
 <p>链表是有序的列表，它在内存中的存储</p>
@@ -556,17 +494,15 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>04.链表LinkedList</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>单链表</tag>
         <tag>双链表</tag>
       </tags>
   </entry>
   <entry>
-    <title>树结构基础部分</title>
-    <url>/2021/07/08/10.%E6%A0%91%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/</url>
+    <title>10、树结构基础部分</title>
+    <url>/2022/03/15/10%E3%80%81%E6%A0%91%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/</url>
     <content><![CDATA[<h1 id="树"><a class="markdownIt-Anchor" href="#树">#</a> 树</h1>
 <h2 id="三种存储方式的比较"><a class="markdownIt-Anchor" href="#三种存储方式的比较">#</a> 三种存储方式的比较</h2>
 <ul>
@@ -694,18 +630,16 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>10.树结构基础部分</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>二叉树</tag>
         <tag>顺序存储二叉树</tag>
         <tag>线索化二叉树</tag>
       </tags>
   </entry>
   <entry>
-    <title>图</title>
-    <url>/2021/07/08/13.%E5%9B%BE/</url>
+    <title>13、图</title>
+    <url>/2022/03/15/13%E3%80%81%E5%9B%BE/</url>
     <content><![CDATA[<h1 id="图"><a class="markdownIt-Anchor" href="#图">#</a> 图</h1>
 <p><strong>为什么要有图</strong></p>
 <p>1) 前面我们学了线性表和树</p>
@@ -814,18 +748,16 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>13.图</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>图</tag>
         <tag>深度优先算法</tag>
         <tag>广度优先算法</tag>
       </tags>
   </entry>
   <entry>
-    <title>栈</title>
-    <url>/2021/07/07/05.%E6%A0%88Stack/</url>
+    <title>05、栈</title>
+    <url>/2022/03/15/05%E3%80%81%E6%A0%88Stack/</url>
     <content><![CDATA[<h2 id="栈stack"><a class="markdownIt-Anchor" href="#栈stack">#</a> 栈 Stack</h2>
 <h2 id="栈的简介"><a class="markdownIt-Anchor" href="#栈的简介">#</a> 栈的简介</h2>
 <ol>
@@ -916,17 +848,15 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>05.栈</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>栈</tag>
         <tag>(后缀表达式)逆波兰表达式</tag>
       </tags>
   </entry>
   <entry>
-    <title>排序算法</title>
-    <url>/2021/07/07/07.%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</url>
+    <title>07、排序算法</title>
+    <url>/2022/03/15/07%E3%80%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h2 id="排序算法"><a class="markdownIt-Anchor" href="#排序算法">#</a> 排序算法</h2>
 <h3 id="概念"><a class="markdownIt-Anchor" href="#概念">#</a> 概念</h3>
 <p>排序也称排序算法 (Sort Algorithm)，排序是将一组数据，依指定的顺序进行排列的过程。</p>
@@ -1125,10 +1055,8 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>07.排序算法</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>排序算法</tag>
         <tag>冒泡排序</tag>
         <tag>时间复杂度</tag>
@@ -1142,8 +1070,8 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
       </tags>
   </entry>
   <entry>
-    <title>树结构实际应用</title>
-    <url>/2021/07/08/11.%E6%A0%91%E7%BB%93%E6%9E%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/</url>
+    <title>11、树结构实际应用</title>
+    <url>/2022/03/15/11%E3%80%81%E6%A0%91%E7%BB%93%E6%9E%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/</url>
     <content><![CDATA[<h2 id="堆排序"><a class="markdownIt-Anchor" href="#堆排序">#</a> 堆排序</h2>
 <h3 id="基本介绍"><a class="markdownIt-Anchor" href="#基本介绍">#</a> 基本介绍</h3>
 <ol>
@@ -1555,10 +1483,8 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>11.树结构实际应用</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>堆排序</tag>
         <tag>赫夫曼树</tag>
         <tag>赫夫曼编码</tag>
@@ -1567,8 +1493,8 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
       </tags>
   </entry>
   <entry>
-    <title>常用10种算法</title>
-    <url>/2021/07/08/14.%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B8%B8%E7%94%A810%E7%A7%8D%E7%AE%97%E6%B3%95/</url>
+    <title>14、常用10种算法</title>
+    <url>/2022/03/15/14%E3%80%81%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B8%B8%E7%94%A810%E7%A7%8D%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h1 id="1-二分查找算法非递归"><a class="markdownIt-Anchor" href="#1-二分查找算法非递归">#</a> 1、二分查找算法 (非递归)</h1>
 <h2 id="简单介绍"><a class="markdownIt-Anchor" href="#简单介绍">#</a> 简单介绍</h2>
 <ol>
@@ -1951,10 +1877,8 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
 ]]></content>
       <categories>
         <category>算法与数据结构</category>
-        <category>14.常用10种算法</category>
       </categories>
       <tags>
-        <tag>算法与数据结构</tag>
         <tag>二分查找算法</tag>
         <tag>分治算法</tag>
         <tag>动态规划算法</tag>

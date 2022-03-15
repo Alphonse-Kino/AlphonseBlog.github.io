@@ -5,23 +5,21 @@
         <link>https://alphonse-Kino.github.io</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Thu, 08 Jul 2021 22:03:46 +0800</pubDate>
-        <lastBuildDate>Thu, 08 Jul 2021 22:03:46 +0800</lastBuildDate>
-        <category>算法与数据结构</category>
+        <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
+        <lastBuildDate>Tue, 15 Mar 2022 22:08:27 +0800</lastBuildDate>
+        <category>线性结构与非线性结构</category>
         <category>稀疏数组</category>
         <category>队列</category>
-        <category>线性结构与非线性结构</category>
-        <category>哈希表</category>
         <category>递归</category>
         <category>线性查找</category>
         <category>二分/折半查找</category>
         <category>插值查找</category>
         <category>斐波那契查找</category>
+        <category>哈希表</category>
         <category>多叉树</category>
         <category>B树</category>
         <category>B+树</category>
         <category>B×树</category>
-        <category>路线图</category>
         <category>随手记</category>
         <category>单链表</category>
         <category>双链表</category>
@@ -58,10 +56,9 @@
         <category>弗洛伊德算法</category>
         <category>马踏棋盘算法</category>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/08/14.%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B8%B8%E7%94%A810%E7%A7%8D%E7%AE%97%E6%B3%95/</guid>
-            <title>常用10种算法</title>
-            <link>https://alphonse-kino.github.io/2021/07/08/14.%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B8%B8%E7%94%A810%E7%A7%8D%E7%AE%97%E6%B3%95/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/14%E3%80%81%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B8%B8%E7%94%A810%E7%A7%8D%E7%AE%97%E6%B3%95/</guid>
+            <title>14、常用10种算法</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/14%E3%80%81%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B8%B8%E7%94%A810%E7%A7%8D%E7%AE%97%E6%B3%95/</link>
             <category>二分查找算法</category>
             <category>分治算法</category>
             <category>动态规划算法</category>
@@ -72,7 +69,7 @@
             <category>迪杰斯特拉算法</category>
             <category>弗洛伊德算法</category>
             <category>马踏棋盘算法</category>
-            <pubDate>Thu, 08 Jul 2021 22:03:46 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;1-二分查找算法非递归&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-二分查找算法非递归&#34;&gt;#&lt;/a&gt; 1、二分查找算法 (非递归)&lt;/h1&gt;
 &lt;h2 id=&#34;简单介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#简单介绍&#34;&gt;#&lt;/a&gt; 简单介绍&lt;/h2&gt;
 &lt;ol&gt;
@@ -455,14 +452,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/08/13.%E5%9B%BE/</guid>
-            <title>图</title>
-            <link>https://alphonse-kino.github.io/2021/07/08/13.%E5%9B%BE/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/13%E3%80%81%E5%9B%BE/</guid>
+            <title>13、图</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/13%E3%80%81%E5%9B%BE/</link>
             <category>图</category>
             <category>深度优先算法</category>
             <category>广度优先算法</category>
-            <pubDate>Thu, 08 Jul 2021 22:03:46 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;图&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#图&#34;&gt;#&lt;/a&gt; 图&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;为什么要有图&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1) 前面我们学了线性表和树&lt;/p&gt;
@@ -571,15 +567,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/08/12.%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/</guid>
-            <title>多路查找树</title>
-            <link>https://alphonse-kino.github.io/2021/07/08/12.%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/12%E3%80%81%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/</guid>
+            <title>12、多路查找树</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/12%E3%80%81%E5%A4%9A%E8%B7%AF%E6%9F%A5%E6%89%BE%E6%A0%91/</link>
             <category>多叉树</category>
             <category>B树</category>
             <category>B+树</category>
             <category>B×树</category>
-            <pubDate>Thu, 08 Jul 2021 22:03:46 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;二叉树存在的问题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二叉树存在的问题&#34;&gt;#&lt;/a&gt; 二叉树存在的问题&lt;/h2&gt;
 &lt;p&gt;二叉树的操作效率较高，但是也存在问题，请看下面的二叉树&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/R7fPMj&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/07/07/R7fPMj.png&#34; alt=&#34;R7fPMj.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -698,16 +693,15 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/08/11.%E6%A0%91%E7%BB%93%E6%9E%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/</guid>
-            <title>树结构实际应用</title>
-            <link>https://alphonse-kino.github.io/2021/07/08/11.%E6%A0%91%E7%BB%93%E6%9E%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/11%E3%80%81%E6%A0%91%E7%BB%93%E6%9E%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/</guid>
+            <title>11、树结构实际应用</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/11%E3%80%81%E6%A0%91%E7%BB%93%E6%9E%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/</link>
             <category>堆排序</category>
             <category>赫夫曼树</category>
             <category>赫夫曼编码</category>
             <category>二叉排序树</category>
             <category>平衡二叉树</category>
-            <pubDate>Thu, 08 Jul 2021 22:02:29 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;堆排序&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#堆排序&#34;&gt;#&lt;/a&gt; 堆排序&lt;/h2&gt;
 &lt;h3 id=&#34;基本介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#基本介绍&#34;&gt;#&lt;/a&gt; 基本介绍&lt;/h3&gt;
 &lt;ol&gt;
@@ -1119,14 +1113,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/08/10.%E6%A0%91%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/</guid>
-            <title>树结构基础部分</title>
-            <link>https://alphonse-kino.github.io/2021/07/08/10.%E6%A0%91%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/10%E3%80%81%E6%A0%91%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/</guid>
+            <title>10、树结构基础部分</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/10%E3%80%81%E6%A0%91%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/</link>
             <category>二叉树</category>
             <category>顺序存储二叉树</category>
             <category>线索化二叉树</category>
-            <pubDate>Thu, 08 Jul 2021 21:57:20 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;树&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#树&#34;&gt;#&lt;/a&gt; 树&lt;/h1&gt;
 &lt;h2 id=&#34;三种存储方式的比较&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三种存储方式的比较&#34;&gt;#&lt;/a&gt; 三种存储方式的比较&lt;/h2&gt;
 &lt;ul&gt;
@@ -1254,12 +1247,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/07/09.%E5%93%88%E5%B8%8C%E8%A1%A8/</guid>
-            <title>哈希表</title>
-            <link>https://alphonse-kino.github.io/2021/07/07/09.%E5%93%88%E5%B8%8C%E8%A1%A8/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/09%E3%80%81%E5%93%88%E5%B8%8C%E8%A1%A8/</guid>
+            <title>09、哈希表</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/09%E3%80%81%E5%93%88%E5%B8%8C%E8%A1%A8/</link>
             <category>哈希表</category>
-            <pubDate>Wed, 07 Jul 2021 22:17:13 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;哈希表&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#哈希表&#34;&gt;#&lt;/a&gt; 哈希表&lt;/h1&gt;
 &lt;h2 id=&#34;基本介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#基本介绍&#34;&gt;#&lt;/a&gt; 基本介绍&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;散列表&lt;/strong&gt;（Hash table，也叫哈希表）&lt;/p&gt;
@@ -1274,15 +1266,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/07/08.%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</guid>
-            <title>查找算法</title>
-            <link>https://alphonse-kino.github.io/2021/07/07/08.%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/08%E3%80%81%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</guid>
+            <title>08、查找算法</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/08%E3%80%81%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/</link>
             <category>线性查找</category>
             <category>二分/折半查找</category>
             <category>插值查找</category>
             <category>斐波那契查找</category>
-            <pubDate>Wed, 07 Jul 2021 22:15:31 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;查找算法介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#查找算法介绍&#34;&gt;#&lt;/a&gt; 查找算法介绍&lt;/h1&gt;
 &lt;p&gt;在 java 中，我们常用的查找有四种：&lt;/p&gt;
 &lt;ol&gt;
@@ -1345,10 +1336,9 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/07/07.%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</guid>
-            <title>排序算法</title>
-            <link>https://alphonse-kino.github.io/2021/07/07/07.%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/07%E3%80%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</guid>
+            <title>07、排序算法</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/07%E3%80%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</link>
             <category>排序算法</category>
             <category>冒泡排序</category>
             <category>时间复杂度</category>
@@ -1359,7 +1349,7 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
             <category>归并排序</category>
             <category>基数排序</category>
             <category>堆排序</category>
-            <pubDate>Wed, 07 Jul 2021 22:12:53 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;排序算法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#排序算法&#34;&gt;#&lt;/a&gt; 排序算法&lt;/h2&gt;
 &lt;h3 id=&#34;概念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概念&#34;&gt;#&lt;/a&gt; 概念&lt;/h3&gt;
 &lt;p&gt;排序也称排序算法 (Sort Algorithm)，排序是将一组数据，依指定的顺序进行排列的过程。&lt;/p&gt;
@@ -1558,12 +1548,11 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/07/06.%E9%80%92%E5%BD%92/</guid>
-            <title>递归</title>
-            <link>https://alphonse-kino.github.io/2021/07/07/06.%E9%80%92%E5%BD%92/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/06%E3%80%81%E9%80%92%E5%BD%92/</guid>
+            <title>06、递归</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/06%E3%80%81%E9%80%92%E5%BD%92/</link>
             <category>递归</category>
-            <pubDate>Wed, 07 Jul 2021 22:09:36 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;递归recursion&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#递归recursion&#34;&gt;#&lt;/a&gt; 递归 (Recursion)&lt;/h3&gt;
 &lt;h4 id=&#34;递归的概念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#递归的概念&#34;&gt;#&lt;/a&gt; 递归的概念&lt;/h4&gt;
 &lt;p&gt;递归就是方法自己调用自己，每次调用时传入不同的变量 **.**&lt;strong&gt; 递归有助于编程者解决复杂的问题&lt;/strong&gt;，同时可以让代码变得简洁。&lt;/p&gt;
@@ -1625,13 +1614,12 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/07/07/05.%E6%A0%88Stack/</guid>
-            <title>栈</title>
-            <link>https://alphonse-kino.github.io/2021/07/07/05.%E6%A0%88Stack/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/05%E3%80%81%E6%A0%88Stack/</guid>
+            <title>05、栈</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/05%E3%80%81%E6%A0%88Stack/</link>
             <category>栈</category>
             <category>(后缀表达式)逆波兰表达式</category>
-            <pubDate>Wed, 07 Jul 2021 22:08:40 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;栈stack&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#栈stack&#34;&gt;#&lt;/a&gt; 栈 Stack&lt;/h2&gt;
 &lt;h2 id=&#34;栈的简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#栈的简介&#34;&gt;#&lt;/a&gt; 栈的简介&lt;/h2&gt;
 &lt;ol&gt;
@@ -1722,22 +1710,12 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/%E9%BB%91%E9%A9%AC%E8%B7%AF%E7%BA%BF%E5%9B%BE/</guid>
-            <title>黑马路线图</title>
-            <link>https://alphonse-kino.github.io/2021/06/30/%E9%BB%91%E9%A9%AC%E8%B7%AF%E7%BA%BF%E5%9B%BE/</link>
-            <category>路线图</category>
-            <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUlhcQ&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUlhcQ.png&#34; alt=&#34;RUlhcQ.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/04.%E9%93%BE%E8%A1%A8LinkedList/</guid>
-            <title>链表LinkedList</title>
-            <link>https://alphonse-kino.github.io/2021/06/30/04.%E9%93%BE%E8%A1%A8LinkedList/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/04%E3%80%81%E9%93%BE%E8%A1%A8LinkedList/</guid>
+            <title>04、链表LinkedList</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/04%E3%80%81%E9%93%BE%E8%A1%A8LinkedList/</link>
             <category>单链表</category>
             <category>双链表</category>
-            <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;链表linkedlist&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#链表linkedlist&#34;&gt;#&lt;/a&gt; 链表 LinkedList&lt;/h2&gt;
 &lt;h3 id=&#34;链表简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#链表简介&#34;&gt;#&lt;/a&gt; 链表简介&lt;/h3&gt;
 &lt;p&gt;链表是有序的列表，它在内存中的存储&lt;/p&gt;
@@ -1833,34 +1811,12 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/01.%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/</guid>
-            <title>算法简介</title>
-            <link>https://alphonse-kino.github.io/2021/06/30/01.%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/</link>
-            <category>算法与数据结构</category>
-            <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUGLZ9&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUGLZ9.png&#34; alt=&#34;RUGLZ9.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUGOaR&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUGOaR.png&#34; alt=&#34;RUGOaR.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/02.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9A%84%E5%85%B3%E7%B3%BB/</guid>
-            <title>数据结构与算法的关系</title>
-            <link>https://alphonse-kino.github.io/2021/06/30/02.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9A%84%E5%85%B3%E7%B3%BB/</link>
-            <category>算法与数据结构</category>
-            <category>线性结构与非线性结构</category>
-            <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUJJJ0&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUJJJ0.png&#34; alt=&#34;RUJJJ0.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUJYWV&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUJYWV.png&#34; alt=&#34;RUJYWV.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/03.%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84%E5%92%8C%E9%98%9F%E5%88%97/</guid>
-            <title>稀疏数组与队列</title>
-            <link>https://alphonse-kino.github.io/2021/06/30/03.%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84%E5%92%8C%E9%98%9F%E5%88%97/</link>
-            <category>算法与数据结构</category>
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/03%E3%80%81%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84%E5%92%8C%E9%98%9F%E5%88%97/</guid>
+            <title>03、稀疏数组与队列</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/03%E3%80%81%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84%E5%92%8C%E9%98%9F%E5%88%97/</link>
             <category>稀疏数组</category>
             <category>队列</category>
-            <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;稀疏数组&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#稀疏数组&#34;&gt;#&lt;/a&gt; 稀疏数组&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RwkEUe&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/29/RwkEUe.png&#34; alt=&#34;RwkEUe.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RwkAED&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/29/RwkAED.png&#34; alt=&#34;RwkAED.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1883,65 +1839,63 @@ int mid = left + (right – left) * (findVal – arr[left]) / (arr[right] – ar
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/%E7%8B%82%E7%A5%9E%E8%B7%AF%E7%BA%BF%E5%9B%BE/</guid>
-            <title>狂神路线图</title>
-            <link>https://alphonse-kino.github.io/2021/06/30/%E7%8B%82%E7%A5%9E%E8%B7%AF%E7%BA%BF%E5%9B%BE/</link>
-            <category>路线图</category>
-            <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/read/cv5702420&#34;&gt;https://www.bilibili.com/read/cv5702420&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RU3lZR&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU3lZR.png&#34; alt=&#34;RU3lZR.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RU3ML9&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU3ML9.png&#34; alt=&#34;RU3ML9.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU31d1&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU31d1.png&#34; alt=&#34;RU31d1.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU3Gi6&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU3Gi6.png&#34; alt=&#34;RU3Gi6.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RU3KsJ&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU3KsJ.png&#34; alt=&#34;RU3KsJ.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU3ZGT&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU3ZGT.png&#34; alt=&#34;RU3ZGT.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU3uM4&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU3uM4.png&#34; alt=&#34;RU3uM4.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU3mzF&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU3mzF.png&#34; alt=&#34;RU3mzF.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU3eRU&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU3eRU.png&#34; alt=&#34;RU3eRU.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU33Ix&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU33Ix.png&#34; alt=&#34;RU33Ix.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/02%E3%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9A%84%E5%85%B3%E7%B3%BB/</guid>
+            <title>02、数据结构与算法的关系</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/02%E3%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%9A%84%E5%85%B3%E7%B3%BB/</link>
+            <category>线性结构与非线性结构</category>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;简单介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#简单介绍&#34;&gt;#&lt;/a&gt; 简单介绍&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1、算法是程序的灵魂，优秀的程序可以在海量数据计算时，依然保持高速计算&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2、一般来讲程序会使用了内存计算框架 (比如 Spark) 和缓存技术 (比如 Redis 等) 来优化程序，再深入的思考一下，这些计算框架和缓存技术，它的核心功能是哪个部分呢？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3、拿实际工作经历来说，在 Unix 下开发服务器程序，功能是要支持上千万人同时在线，在上线前，做内测，一切 OK, 可上线后，服务器就支撑不住了，公司的 CTO 对代码进行优化，再次上线，坚如磐石。你就能感受到程序是有灵魂的，就是算法。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4、目前程序员面试的门槛越来越高，很多一线 IT 公司 (大厂)，都会有数据结构和算法面试题 (负责的告诉你，肯定有的)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;5、如果你不想永远都是代码工人，那就花时间来研究下数据结构和算法&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;数据结构和算法的关系&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据结构和算法的关系&#34;&gt;#&lt;/a&gt; 数据结构和算法的关系&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;1、数据 data 结构 (structure) 是一门研究组织数据方式的学科，有了编程语言也就有了数据结构。学好数据结构可以&lt;br&gt;
+编写出更加漂亮，更加有效率的代码。&lt;/li&gt;
+&lt;li&gt;2、要学习好数据结构就要多多考虑如何将生活中遇到的问题，用程序去实现解决.&lt;/li&gt;
+&lt;li&gt;3、程序 = 数据结构＋算法&lt;/li&gt;
+&lt;li&gt;4、数据结构是算法的基础，换言之，想要学好算法，需要把数据结构学到位。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;线性结构和非线性结构&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#线性结构和非线性结构&#34;&gt;#&lt;/a&gt; 线性结构和非线性结构&lt;/h1&gt;
+&lt;p&gt;数据结构包括：线性结构和非线性结构。&lt;br&gt;
+1、线性结构&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1、线性结构作为最常用的数据结构，其特点是数据元素之间存在一对一的线性关系&lt;/li&gt;
+&lt;li&gt;2、线性结构有两种不同的存储结构，即顺序存储结构 (数组) 和链式存储结构 (链表)。顺序存储的线性表称为顺序表，顺序表中的存储元素是连续的&lt;/li&gt;
+&lt;li&gt;3、链式存储的线性表称为链表，链表中的存储元素不一定是连续的，元素节点中存放数据元素以及相邻元素的地址信息&lt;/li&gt;
+&lt;li&gt;4、线性结构常见的有：数组、队列、链表和栈，后面我们会详细讲解.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2、非线性结构&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;非线性结构包括：二维数组，多维数组，广义表，树结构，图结构&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/%E6%95%96%E4%B8%99%E8%84%91%E5%9B%BE/</guid>
-            <title>敖丙路线图</title>
-            <link>https://alphonse-kino.github.io/2021/06/30/%E6%95%96%E4%B8%99%E8%84%91%E5%9B%BE/</link>
-            <category>路线图</category>
-            <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RNNajO&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RNNajO.jpg&#34; alt=&#34;RNNajO.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/%E5%B0%9A%E7%A1%85%E8%B0%B7%E8%B7%AF%E7%BA%BF%E5%9B%BE/</guid>
-            <title>尚硅谷路线图</title>
-            <link>https://alphonse-kino.github.io/2021/06/30/%E5%B0%9A%E7%A1%85%E8%B0%B7%E8%B7%AF%E7%BA%BF%E5%9B%BE/</link>
-            <category>路线图</category>
-            <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUnSBV&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUnSBV.jpg&#34; alt=&#34;RUnSBV.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUnQ4e&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUnQ4e.png&#34; alt=&#34;RUnQ4e.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RUnMND&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUnMND.png&#34; alt=&#34;RUnMND.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RUnKAO&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUnKAO.png&#34; alt=&#34;RUnKAO.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUn19H&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUn19H.png&#34; alt=&#34;RUn19H.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/CSDN/</guid>
-            <title>CSDN路线图</title>
-            <link>https://alphonse-kino.github.io/2021/06/30/CSDN/</link>
-            <category>路线图</category>
-            <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/One_L_Star/article/details/102394373&#34;&gt;https://blog.csdn.net/One_L_Star/article/details/102394373&lt;/a&gt;&lt;a href=&#34;https://imgtu.com/i/RU1A3D&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU1A3D.png&#34; alt=&#34;RU1A3D.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU1VjH&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU1VjH.png&#34; alt=&#34;RU1VjH.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU1eud&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU1eud.png&#34; alt=&#34;RU1eud.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU1nHI&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU1nHI.png&#34; alt=&#34;RU1nHI.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU1KEt&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU1KEt.png&#34; alt=&#34;RU1KEt.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RU1Ege&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU1Ege.png&#34; alt=&#34;RU1Ege.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU1i4K&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU1i4K.png&#34; alt=&#34;RU1i4K.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://imgtu.com/i/RU1k9O&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RU1k9O.png&#34; alt=&#34;RU1k9O.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+            <guid isPermalink="true">https://alphonse-kino.github.io/2022/03/15/01%E3%80%81%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/</guid>
+            <title>01、算法简介</title>
+            <link>https://alphonse-kino.github.io/2022/03/15/01%E3%80%81%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/</link>
+            <pubDate>Tue, 15 Mar 2022 22:08:27 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/RUGOaR&#34;&gt;&lt;img src=&#34;https://z3.ax1x.com/2021/06/28/RUGOaR.png&#34; alt=&#34;RUGOaR.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://alphonse-kino.github.io/2021/06/30/%E7%BD%AE%E9%A1%B6/</guid>
-            <title>我的笔记</title>
+            <title>置顶</title>
             <link>https://alphonse-kino.github.io/2021/06/30/%E7%BD%AE%E9%A1%B6/</link>
             <category>随手记</category>
             <pubDate>Wed, 30 Jun 2021 11:56:20 +0800</pubDate>
