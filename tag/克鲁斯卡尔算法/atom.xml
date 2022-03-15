@@ -8,11 +8,11 @@
     <category term="稀疏数组" />
     <category term="队列" />
     <category term="递归" />
+    <category term="哈希表" />
     <category term="线性查找" />
     <category term="二分/折半查找" />
     <category term="插值查找" />
     <category term="斐波那契查找" />
-    <category term="哈希表" />
     <category term="多叉树" />
     <category term="B树" />
     <category term="B+树" />
